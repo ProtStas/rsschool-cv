@@ -1,1 +1,1 @@
-https://GITHUB-ProtStas.github.io/rsschool-cv-1/cv
+https://protstas.github.io/rsschool-cv-1/cv
