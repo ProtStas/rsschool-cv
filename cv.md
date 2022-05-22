@@ -19,6 +19,10 @@ Born in Minsk, Belarus. Graduated from Vitebsk State Medical University. Worked 
 - Git/GitHub
 
 ## Code Examples
+function multiply(a, b) {<br>
+  a * b <br>
+  return a * b
+}
 
 ## Languages
 - Russian- native
