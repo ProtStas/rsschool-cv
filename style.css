@@ -1,0 +1,22 @@
+.header {
+display: flex;
+align-items: center;
+justify-content: space-evenly;
+padding: 10px;
+max-width: 1200 px;
+font-size: 22px;
+margin: auto;
+}
+* {
+    box-sizing: border-box;
+  }
+.body {
+    font-family: 'Roboto Flex', sans-serif;
+    font-size: 14px;
+    border: 1px solid red;
+    min-height: 100vh
+    padding: 50px;
+}
+.footer {
+    border: 1px solid red;
+}
