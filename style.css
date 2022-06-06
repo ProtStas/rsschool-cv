@@ -13,6 +13,9 @@
     flex-direction: column;
     justify-content: space-between;
 }
+h1 {
+    font-size: 30px;
+}
 h2 {
     text-decoration: underline;
 }
@@ -23,7 +26,7 @@ h2 {
     flex-wrap: wrap;
 }
 .header {
-    border: 1px solid red;
+    
     margin: 0;
     background:#7272784f;
 }
@@ -35,6 +38,7 @@ h2 {
 }
 #img {
     border-radius: 100px;
+    box-shadow: 4px 4px 4px 4px lightgrey;
 }
 .contacts {
     width: 50%;
@@ -70,12 +74,12 @@ h2 {
     padding: 0 15px;
 }
 .main {
-    border: 1px solid red;
+    
     margin: 0;
-    background-color:#d9e7f321;
+    background-color:#8b8b8bba;
 }
 .footer {
-    border: 1px solid red;
+    
     margin: 0;
     background:#7272784f;
     text-decoration: none;
